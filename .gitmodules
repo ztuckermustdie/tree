@@ -1,3 +1,7 @@
 [submodule "ivtlbs01n2j"]
 path=subcomponents/ivtlbs01n2j
 url=git@github.com:ztuckermustdie/coconut.git
+
+[submodule "ugbk3rlmx2p"]
+path=subcomponents/ugbk3rlmx2p
+url=git@github.com:ztuckermustdie/coconut.git
